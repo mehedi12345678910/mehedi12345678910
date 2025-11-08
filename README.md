@@ -4,7 +4,7 @@
 
 
 
-## 👨🏼‍💻 I'm a Frontend Developer
+## 👨🏼‍💻 I'm a fullStack Developer
 
 <img src="https://raw.githubusercontent.com/soumyajit4419/soumyajit4419/refs/heads/master/thoughtworks-gif_dribbble.gif" width="260px" align="right"/>
 
@@ -25,18 +25,18 @@
 
 <p align="center">
  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amdadislam01&theme=react-dark&hide_border=true&area=true&bg_color=000000" width="55%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mehedi&theme=react-dark&hide_border=true&area=true&bg_color=000000" width="55%"/>
   
   <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amdadislam01&layout=compact&theme=radical&hide_border=true&bg_color=000000&langs_count=6" width="40%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehedi&layout=compact&theme=radical&hide_border=true&bg_color=000000&langs_count=6" width="40%"/>
 </p>
 
 <p align="center">
   <!-- Main Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=amdadislam01&show_icons=true&theme=radical&hide_border=true&bg_color=000000&include_all_commits=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mehedi&show_icons=true&theme=radical&hide_border=true&bg_color=000000&include_all_commits=true" width="48%"/>
   
   <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amdadislam01&theme=radical&hide_border=true&background=000000&stroke=FF69B4" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mehedi&theme=radical&hide_border=true&background=000000&stroke=FF69B4" width="48%"/>
 </p>
 
 </div>
@@ -46,7 +46,7 @@
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amdadislam01&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Mehedi&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
 </p>
 
 </div>
